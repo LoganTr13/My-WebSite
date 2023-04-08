@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,500;0,700;1,300;1,500;1,700&display=swap');
+.content{
+    text-align:center;
+}
+.start-g{
+    position: absolute;
+    left: 0px;
+    right:0px;
+    margin:0px;
+    padding:1em;
+    background-color: #384E77;
+    box-shadow: 0px .2em .3em #273753;
+}
+.start-g img{
+    width:10em;
+    border-radius: 13px;
+}
+.start-g p {
+    padding: 1em;
+    color:aliceblue;
+    font-family: 'Open Sans';
+}
+.cat{
+    margin-top:25em;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding:0px;
+}
+.jogo{
+    max-width:25em;
+    margin:1em;
+    padding:2.5em;
+    box-shadow: 0px .4em .3em #273753;
+    border-radius: 7px;
+}
+.jogo a p{
+    max-width: 20em;
+}
+video{
+    border-radius:10px;
+    height:180px;
+}
