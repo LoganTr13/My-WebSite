@@ -1,0 +1,1 @@
+const btnPassword = document.getElementById('btnpass')

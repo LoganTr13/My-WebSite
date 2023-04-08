@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,500;0,700;1,300;1,500;1,700&display=swap');
+/*Index*/
+.content{
+    padding-top: 5em;
+}
+.intro{
+    padding:1.5em 2em;
+    background-color: #384e77df;
+    position: absolute;
+    align-items: center;
+    right: 0px;
+    display:flex;
+    border-bottom-left-radius: 9px;
+    width:87vw;
+    z-index: 0;
+}
+.txtIntro{
+    max-width: 35em;
+    margin:0px;
+    text-align: center;
+    margin-left:4em;
+}
+.txtIntro p {
+    font-family: 'Open Sans';
+    font-size: 1.05em;
+    font-style: italic;
+    color:#ffffff;
+    text-transform: uppercase;
+}
+.Context{
+    margin-top: 24em;
+    text-align: center;
+}
+.Context ol{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0px;
+}
+.news{
+    padding:1.7em;
+    border-radius: 7px;
+    margin:1.3em;
+    width:25vw;
+    text-align: center;
+    box-shadow: 0px .3em .35em #413C58;
+}
+.news p {
+    font-size: .97em;
+    font-family: "Open Sans";
+    margin: 0px 2em;
+}
+.news img{
+    border-radius:2em;
+    width:23vw;
+    box-shadow: 0px 2px .1em #413C58;
+}
+video{
+    border-radius: 15px;
+    margin:auto;
+}
