@@ -8,7 +8,7 @@ helper = document.getElementById('txtIntro')
 
 function passYT(senha,link,yt){
     if (text.value == senha) {
-        window.open(yt,'musica','width=100, height=100', "_blank");
+        window.open(yt,'musica','width=100, height=100');
         alert('Wait a Moment...');
         for (let i = 0; i < img.length; i++) {
             img[i].setAttribute("src",link);

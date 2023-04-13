@@ -1,0 +1,23 @@
+.content{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.disc{
+    background-color: rgb(35, 36, 38);
+    border-radius: 1.7em;
+    width: 15em;
+    padding: 3.2em;
+    text-align: center;
+}
+img{
+    width: 10em;
+    border-radius: 3em;
+}
+.disc h2{
+    margin-top: 1.5em;
+    font-size: 2em;
+    color:rgb(255, 255, 255);
+}

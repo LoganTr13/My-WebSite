@@ -21,22 +21,25 @@
     font-family: 'Open Sans';
 }
 .cat{
-    margin-top:25em;
+    margin-top:20em;
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding:0px;
+    padding:0px;    
+    justify-items: center;
 }
 .jogo{
-    max-width:25em;
+    width:20em;
     margin:1em;
-    padding:2.5em;
+    padding:1.5em;
     box-shadow: 0px .4em .3em #273753;
     border-radius: 7px;
 }
 .jogo a p{
     max-width: 20em;
+    margin:auto;
 }
-video{
+.ImgJogo{
     border-radius:10px;
     height:180px;
+    max-width: 305px;
 }

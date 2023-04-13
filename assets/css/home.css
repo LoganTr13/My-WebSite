@@ -64,8 +64,9 @@
     width:23vw;
     box-shadow: 0px 2px .1em #413C58;
 }
-video{
+.GameIntro{
     border-radius: 15px;
     margin:auto;
     box-shadow: .1em .1em .14em #1c273c;
+    width:305px;
 }
